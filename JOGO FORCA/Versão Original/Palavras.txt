@@ -1,0 +1,16 @@
+macaco
+animal mamifero
+televisao
+objeto que exibe imagens
+computador
+item que realiza calculos
+internet
+rede de comunicacao de nivel global
+natal
+data comemorativa
+ano novo
+primeiro dia do ano
+guarda-sol
+objeto tipico de praia
+tigre
+animal
